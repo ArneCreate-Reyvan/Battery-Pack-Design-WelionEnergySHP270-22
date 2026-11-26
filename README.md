@@ -124,11 +124,7 @@ Seventeen modules are connected in series to achieve the complete pack configura
 
 ### Module Layout
 
-![Battery Module Layout](Images/Module/module-layout.png)
-
-### Module Assembly
-
-![Battery Module Assembly](Images/Module/module-assembly.png)
+![Battery Module Layout](Assembly/ModuleLayout.png)
 
 ---
 
