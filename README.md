@@ -242,7 +242,7 @@ The BMS follows a master-slave architecture consisting of an STM32G4-based maste
 
 For further technical details, refer to the dedicated BMS repository:
 
-**[BMS Master STM32G4 & Slave LTC6810](../BMS-Master-STM32G4-Slave-LTC6810)**
+**[BMS Master STM32G4 & Slave LTC6810](https://github.com/ArneCreate-Reyvan/BMS-Master-STM32G4-Slave-LTC6810)**
 
 ---
 
